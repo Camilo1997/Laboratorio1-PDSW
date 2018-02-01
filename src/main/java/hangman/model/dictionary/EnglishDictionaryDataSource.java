@@ -13,7 +13,7 @@ import java.util.*;
  * @author hcadavid
  * Modified by fchaves
  */
-public class EnglishDictionaryDataSource {
+public class EnglishDictionaryDataSource implements Dictionary{
 
     private List<Character> characterSet;
 
